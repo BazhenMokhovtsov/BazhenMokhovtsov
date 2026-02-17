@@ -1,32 +1,47 @@
-## Hi, I'm Bazhen 👋
+# Bazhen Mokhovtsov
 
-Backend Developer | Python & Django  
-Passionate about clean architecture, REST APIs and scalable systems.
+Backend Developer (Python / Django)
 
-### 🛠 Tech Stack
+I build production-ready backend systems with clean architecture,
+REST APIs, Dockerized environments and monitoring setups.
+
+---
+
+## ⚙️ Tech Stack
+
 - Python
 - Django / Django REST Framework
 - PostgreSQL
-- Docker
 - Redis
-- Git
-- Linux
+- Docker / Docker Compose
 - Nginx
+- Linux
+- GitHub Actions
 
-- ### 🚀 Featured Projects
+---
 
-🔹 Menu Generator API  
-Backend service built with Django REST Framework.  
-- JWT authentication  
-- Redis caching  
-- Dockerized  
-- Production-ready deployment  
+## 🚀 Focus
 
-🔹 Monitoring Stack  
-Grafana + Prometheus + Docker setup with Nginx reverse proxy.
+- Scalable backend systems
+- API design
+- Service-layer architecture
+- Containerized deployments
+- Monitoring & observability (Grafana / Prometheus)
 
+---
 
+## 📊 Development Activity
 
-## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=BazhenMokhovtsov&theme=tokyonight&hide_border=true)
 
-[![Bazhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazhenMokhovtsov)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📈 Metrics
+
+![Metrics](./github-metrics.svg)
+
+---
+
+## 📫 Contact
+
+Open to backend opportunities in Germany / EU.
