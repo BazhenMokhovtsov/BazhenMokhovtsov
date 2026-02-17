@@ -29,4 +29,4 @@ Grafana + Prometheus + Docker setup with Nginx reverse proxy.
 
 ## 📊 GitHub Stats
 
-![Bazhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazhenMokhovtsov&show_icons=true&theme=tokyonight)
+[![Bazhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazhenMokhovtsov)](https://github.com/anuraghazra/github-readme-stats)
