@@ -24,3 +24,9 @@ Backend service built with Django REST Framework.
 
 🔹 Monitoring Stack  
 Grafana + Prometheus + Docker setup with Nginx reverse proxy.
+
+
+
+## 📊 GitHub Stats
+
+![Bazhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight)
